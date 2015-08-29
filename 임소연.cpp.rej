@@ -1,0 +1,10 @@
+diff a/임소연.cpp b/임소연.cpp	(rejected hunks)
+@@ -0,0 +1,8 @@
++#include <stdio.h>
++
++int main()
++{
++	printf("임소연은 멍청하다\n");
++
++	return 0;
++}
